@@ -5,7 +5,7 @@ public class Anakart {
     private String model;
     private String marka;
     private int anakartHiz;
-    private string capacity;
+    private String capacity;
 
     public Anakart(String model, String marka, int anakartHiz) {
         this.model = model;
